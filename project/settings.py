@@ -44,6 +44,8 @@ INSTALLED_APPS = [
     'home',
     'job',
     "django_bootstrap5",
+    'django_filters',
+
 
 ]
 
