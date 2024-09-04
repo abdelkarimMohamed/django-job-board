@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     'job',
     "django_bootstrap5",
     'django_filters',
-
+    'rest_framework',
 
 ]
 
